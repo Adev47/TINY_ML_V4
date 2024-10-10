@@ -1,0 +1,2 @@
+Logo,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/7fusion_default_logo.gif
+Background,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_CUSTOMERS/7fusion_default_background.png
