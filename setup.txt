@@ -1,5 +1,5 @@
 [design]
-highlight_color = #FF0066
+highlight_color = #36C7D2
 loader_box_color = #070707
 main_text_color = #ededed
 main_widgets_color = #050505
