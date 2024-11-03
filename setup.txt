@@ -5,9 +5,9 @@ main_text_color = #ededed
 main_widgets_color = #050505
 
 [links]
-discord_link = https://discord.gg/7fusion
-guide_link = https://7fusion-services.gitbook.io/7fusion-guide
-website_link = https://7fusion.sellpass.io/
+discord_link = https://discord.gg/anewvision
+guide_link = https://av0.gitbook.io/av
+website_link = https://av.sellauth.com/
 
 [rounded_corners]
 main_widgets = 12
