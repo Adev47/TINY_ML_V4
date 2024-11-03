@@ -1,4 +1,3 @@
 CHAIR V2,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe
 CHAIR V3,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe
 UA + WOOFER,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe
-PRIVACY PROTECTOR,updating,1.00.03,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe
